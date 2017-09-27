@@ -4,7 +4,7 @@ import org.junit.Test;
 
 
 public class TesteTradutor {
-
+//
 	@Test
 	public void tradutorSemPalavras() {
 		Tradutor t = new Tradutor();

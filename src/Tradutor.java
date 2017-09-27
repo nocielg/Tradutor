@@ -1,6 +1,6 @@
 
 public class Tradutor {
-
+//
 	private String traducao;
 	
 	public void adicionaTraducao(String palavra, String traducao) {
